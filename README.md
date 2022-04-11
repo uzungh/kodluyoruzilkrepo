@@ -2,7 +2,8 @@
 👀 I’m interested in music, art, books, sports, video games.
 🌱 I’m currently learning JavaScript.
 📫 How to reach me ---> furkanuzun.u@gmail.com
-
+<br>
+Patika Profilim: https://app.patika.dev/ressuv
 
 
 # kodluyouzilkrepo
