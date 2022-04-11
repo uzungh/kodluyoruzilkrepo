@@ -1,3 +1,10 @@
+👋 Hi, I’m @uzungh
+👀 I’m interested in music, art, books, sports, video games.
+🌱 I’m currently learning JavaScript.
+📫 How to reach me ---> furkanuzun.u@gmail.com
+
+
+
 # kodluyouzilkrepo
 Kodluyoruz Front-end first repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
